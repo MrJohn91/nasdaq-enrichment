@@ -1,0 +1,102 @@
+symbol,name,headQuarter,dateFirstAdded,cik,founded,sector
+AAPL,Apple Inc.,"Cupertino, CA",1900-01-01,320193,1976-04-01,Technology
+ABNB,Airbnb,"San Francisco, CA",1900-01-01,1559720,2008-08-01,Hospitality
+ADBE,Adobe Inc.,"San Jose, CA",1900-01-01,796343,1982-12-01,Technology
+ADI,Analog Devices,"Wilmington, MA",1900-01-01,6281,1965-01-01,Semiconductor Industry
+ADP,ADP,"Roseland, NJ",1900-01-01,8670,1949-01-01,Business Services
+ADSK,Autodesk,"San Rafael, CA",1900-01-01,769397,1982-01-30,Technology
+AEP,American Electric Power,"Columbus, OH",1900-01-01,4904,1906-01-01,Utilities
+ALGN,Align Technology,"Tempe, AZ",1900-01-01,1097149,1997-01-01,Healthcare
+AMAT,Applied Materials,"Santa Clara, CA",1900-01-01,6951,1967-11-10,Technology
+AMD,Advanced Micro Devices Inc.,"Santa Clara, CA",1900-01-01,2488,1969-05-01,Technology
+AMGN,Amgen,"Thousand Oaks, CA",1900-01-01,318154,1980-04-08,Biotechnology
+AMZN,Amazon,"Seattle, WA",1900-01-01,1018724,1994-07-05,E-commerce
+ANSS,Ansys,"Canonsburg, PA",1900-01-01,1013462,1970-01-01,Engineering Software
+ASML,ASML Holding,"Veldhoven, ",1900-01-01,937966,1984-01-01,Technology
+ATVI,Activision Blizzard,"Santa Monica, CA",1900-01-01,718877,2008-07-10,Technology
+AVGO,Broadcom Inc.,"San Jose, CA",1900-01-01,1730168,1961-01-01,Technology
+AZN,AstraZeneca,"Cambridge, ",1900-01-01,901832,1999-04-06,Healthcare
+BIIB,Biogen,"Cambridge, MA",1900-01-01,875045,1978-01-01,Healthcare
+BKNG,Booking Holdings,"Norwalk, CT",1900-01-01,1075531,1996-01-01,Travel and Tourism
+BKR,Baker Hughes,"Houston, TX",1900-01-01,1701605,1907-01-01,Energy Services
+CDNS,Cadence Design Systems,"San Jose, CA",1900-01-01,813672,1988-01-01,Technology
+CEG,Constellation Energy,"Baltimore, MD",1900-01-01,1868275,1999-01-01,Energy Sector
+CHTR,Charter Communications,"Stamford, CT",1900-01-01,1091667,1993-01-01,Telecommunications
+CMCSA,Comcast,"Philadelphia, PA",1900-01-01,1166691,1963-11-13,Telecommunications
+COST,Costco,"Issaquah, WA",1900-01-01,909832,1983-09-15,Retail
+CPRT,Copart,"Dallas, TX",1900-01-01,900075,1982-01-01,Automotive Industry
+CRWD,CrowdStrike,"Austin, TX",1900-01-01,1535527,2011-01-01,Cybersecurity
+CSCO,Cisco,"San Jose, CA",1900-01-01,858877,1984-12-10,Information Technology
+CSGP,CoStar Group,"Washington, DC",1900-01-01,1057352,1987-01-01,Real Estate Technology
+CSX,CSX Corporation,"Jacksonville, FL",1900-01-01,277948,1980-11-01,Transportation
+CTAS,Cintas,"Cincinnati, OH",1900-01-01,723254,1929-01-01,Industrial Services
+CTSH,Cognizant,"Teaneck, NJ",1900-01-01,1058290,1994-01-26,Information Technology
+DDOG,Datadog,"New York, NY",1900-01-01,1561550,2010-01-01,Information Technology (IT)
+DLTR,Dollar Tree,"Chesapeake, VA",1900-01-01,935703,2001-01-01,Retail
+DXCM,DexCom,"San Diego, CA",1900-01-01,1093557,1999-01-01,Healthcare
+EA,Electronic Arts,"Redwood City, CA",1900-01-01,712515,1982-05-27,Technology
+EBAY,eBay,"San Jose, CA",1900-01-01,1065088,1995-09-03,E-commerce
+ENPH,Enphase Energy,"Fremont, CA",1900-01-01,1463101,2006-01-01,Renewable Energy
+EXC,Exelon,"Chicago, IL",1900-01-01,1109357,2000-10-20,Utilities
+FANG,Diamondback Energy,"Midland, TX",1900-01-01,1539838,2012-10-12,Energy Sector
+FAST,Fastenal,"Winona, MN",1900-01-01,815556,1967-01-01,Industrial Distribution
+FTNT,Fortinet,"Sunnyvale, CA",1900-01-01,1262039,2000-01-01,Cybersecurity
+GEHC,GE HealthCare,"Chicago, IL",1900-01-01,1932393,1994-09-28,Healthcare
+GFS,GlobalFoundries,"Malta, NY",1900-01-01,1709048,2009-03-02,Semiconductor Manufacturing
+GILD,Gilead Sciences,"Foster City, CA",1900-01-01,882095,1987-06-22,Healthcare
+GOOG,Alphabet Inc. (Class C),"Mountain View, CA",1900-01-01,1652044,2015-10-02,Technology
+GOOGL,Alphabet Inc. (Class A),"Mountain View, CA",1900-01-01,1652044,2015-10-02,Technology
+HON,Honeywell,"Charlotte, NC",1900-01-01,773840,1906-01-01,Industrial Conglomerate
+IDXX,Idexx Laboratories,"Westbrook, ME",1900-01-01,874716,1983-01-01,Healthcare
+ILMN,"Illumina, Inc.","San Diego, CA",1900-01-01,1110803,1998-01-01,Healthcare
+INTC,Intel,"Santa Clara, CA",1900-01-01,50863,1968-07-18,Technology
+INTU,Intuit,"Mountain View, CA",1900-01-01,896878,1983-01-01,Technology
+ISRG,Intuitive Surgical,"Sunnyvale, CA",1900-01-01,1035267,1995-01-01,Healthcare Technology
+JD,JD.com,"Beijing, ",1900-01-01,1549802,1998-06-06,E-commerce
+KDP,Keurig Dr Pepper,"Burlington, MA",1900-01-01,1418135,1981-01-01,Beverage sector
+KHC,Kraft Heinz,"Pittsburgh, PA",1900-01-01,1637459,2015-07-02,Consumer Packaged Goods
+KLAC,KLA Corporation,"Milpitas, CA",1900-01-01,319201,1997-01-01,Technology
+LCID,Lucid Motors,"Newark, CA",1900-01-01,1811210,2007-01-01,Automotive industry
+LRCX,Lam Research,"Fremont, CA",1900-01-01,707549,1980-01-01,Semiconductor Manufacturing
+LULU,Lululemon,"Vancouver, BC",1900-01-01,1397187,1998-01-01,Retail
+MAR,Marriott International,"Bethesda, MD",1900-01-01,1048286,1927-03-05,Hospitality
+MCHP,Microchip Technology,"Chandler, AZ",1900-01-01,827054,1989-01-01,Semiconductors
+MDLZ,Mondelēz International,"Chicago, IL",1900-01-01,1103982,1923-12-10,Consumer Packaged Goods
+MELI,MercadoLibre,"Montevideo, ",1900-01-01,1099590,1999-08-02,E-commerce
+META,Meta Platforms,"Menlo Park, CA",1900-01-01,1326801,2004-01-04,Technology
+MNST,Monster Beverage,"Corona, CA",1900-01-01,865752,1935-01-01,Consumer Staples
+MRNA,Moderna,"Cambridge, MA",1900-01-01,1682852,2010-09-01,Biotechnology
+MRVL,Marvell Technology,"Wilmington, DE",1900-01-01,1835632,1995-01-01,Technology
+MSFT,Microsoft,"Redmond, WA",1900-01-01,789019,1975-04-04,Technology
+MU,Micron Technology,"Boise, ID",1900-01-01,723125,1978-10-05,Technology
+NFLX,Netflix,"Los Gatos, CA",1900-01-01,1065280,1997-09-29,Entertainment
+NVDA,Nvidia,"Santa Clara, CA",1900-01-01,1045810,1993-04-05,Technology
+NXPI,NXP,"Eindhoven, ",1900-01-01,1413447,2006-01-01,Semiconductors
+ODFL,Old Dominion Freight Line,"Thomasville, NC",1900-01-01,878927,1934-01-01,Transportation and Logistics
+ON,Onsemi,"Phoenix, AZ",1900-01-01,1097864,1999-01-01,Semiconductor Manufacturing
+ORLY,O'Reilly Automotive,"Springfield, MO",1900-01-01,898173,1957-12-02,Retail Sector
+PANW,Palo Alto Networks,"Santa Clara, CA",1900-01-01,1327567,2005-01-01,Information Technology
+PAYX,Paychex,"Rochester, NY",1900-01-01,723531,1971-01-01,Business Services
+PCAR,Paccar,"Bellevue, WA",1900-01-01,75362,1905-01-01,Automotive
+PDD,PDD Holdings,"Shanghai, ",1900-01-01,1737806,2015-01-01,Real Estate
+PEP,PepsiCo,"Purchase, NY",1900-01-01,77476,1898-08-28,Food and Beverage
+PYPL,PayPal,"San Jose, CA",1900-01-01,1633917,1998-12-01,Financial Technology (FinTech)
+QCOM,Qualcomm,"San Diego, CA",1900-01-01,804328,1985-07-01,Technology
+REGN,Regeneron,"Tarrytown, NY",1900-01-01,872589,1988-01-01,Biotechnology
+ROST,Ross Stores,"Dublin, CA",1900-01-01,745732,2050-01-19,Retail
+SBUX,Starbucks,"Seattle, WA",1900-01-01,829224,1971-03-30,Food and Beverage
+SGEN,Seagen,"Bothell, WA",1900-01-01,1060736,1997-01-01,Biotechnology
+SIRI,Sirius XM,"New York, NY",1900-01-01,908937,2008-07-29,Media & Entertainment
+SNPS,Synopsys,"Mountain View, CA",1900-01-01,883241,1986-01-01,Technology
+TEAM,Atlassian,"Sydney, NSW",1900-01-01,1650372,2002-01-01,Technology
+TMUS,T-Mobile US,"Bellevue, WA",1900-01-01,1283699,2001-09-02,Telecommunications
+TSLA,"Tesla, Inc.","Austin, TX",1900-01-01,1318605,2003-07-01,Automotive
+TXN,Texas Instruments,"Dallas, TX",1900-01-01,97476,1930-01-01,Technology
+VRSK,Verisk,"Jersey City, NJ",1900-01-01,1442145,1971-01-01,Financial Services
+VRTX,Vertex Pharmaceuticals,"Boston, MA",1900-01-01,875320,1989-01-01,Healthcare
+WBA,Walgreens Boots Alliance,"Deerfield, IL",1900-01-01,1618921,2014-12-31,Healthcare
+WBD,Warner Bros. Discovery,"New York, NY",1900-01-01,1437107,2022-04-08,Media & Entertainment
+WDAY,"Workday, Inc.","Pleasanton, CA",1900-01-01,1327811,2005-03-01,Technology
+XEL,Xcel Energy,"Minneapolis, MN",1900-01-01,72903,1909-06-17,Utilities
+ZM,Zoom Video Communications,"San Jose, CA",1900-01-01,1585521,2011-04-21,Technology
+ZS,Zscaler,"San Jose, CA",1900-01-01,1713683,2007-01-01,Cybersecurity
